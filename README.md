@@ -2,7 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+<img src="https://github.com/saummya-arch/Cryptocurrency-App/blob/master/crypto/pic1.jpg" width=400 height=800>
+<img src="https://github.com/saummya-arch/Cryptocurrency-App/blob/master/crypto/pic2.jpg" width=400 height=800>
+<img src="https://github.com/saummya-arch/Cryptocurrency-App/blob/master/crypto/pic3.jpg" width=400 height=800>
+<img src="https://github.com/saummya-arch/Cryptocurrency-App/blob/master/crypto/pic4.jpg" width=400 height=800>
 
 This project is a starting point for a Flutter application.
 
